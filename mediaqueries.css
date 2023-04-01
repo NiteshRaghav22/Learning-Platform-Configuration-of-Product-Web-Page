@@ -1,0 +1,104 @@
+@media  screen and (max-width: 767px) {
+    h1 {
+        font-size: 1.6rem;
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+    }
+    .top-banner {
+        height: 110px;
+        
+    }
+    .introduction {
+        padding: 60px 90px;
+    }
+    .insightscard {
+        padding: 20px 40px;
+        height: 450px;
+    }
+    
+    .insightscard img {
+        padding: 5px;
+        height: 360px;
+        width: 650px;
+    }
+    .compass {
+        padding: 30px 15px;
+        height: 470px;
+    }
+    
+    .compass img {
+        padding: 15px;
+        height: 260px;
+        width: 730px;
+    }
+    .fitment {
+        padding: 20px 150px;
+        height: 1320px;
+        flex-direction: column;
+    }
+}
+@media  screen and (max-width: 479px){
+    h1 {
+        font-size: 1.2rem;
+    }
+    
+    h2 {
+        font-size: 1rem;
+    }
+    
+    h3 {
+        font-size: 0.8rem;
+    }
+    h4{
+        font-size: 1rem;
+     }
+    h5{
+       font-size: 1rem;
+    }
+    p {
+        font-size: 0.7rem;
+    }
+    li{
+        font-size: 0.7rem;
+    }
+    .top-banner {
+        height: 87px;
+        
+    }
+    .top-banner p img {
+        height: 13px;
+    }
+    .introduction {
+        padding: 55px 80px;
+        height: 315px;
+    }
+    .insightscard {
+        padding: 22px 15px;
+        height: 380px;
+    }
+    
+    .insightscard img {
+        padding: 3px;
+        height: 270px;
+        width: 430px;
+    }
+    .compass {
+        padding: 20px 7px;
+        height: 360px;
+    }
+    
+    .compass img {
+        padding: 4px;
+        height: 185px;
+        width: 450px;
+    }
+    .fitment {
+        height: 1050px;
+        padding: 10px 30px;
+    }
+    .card-body h1 img{
+       height: 200px;
+    }
+}

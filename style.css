@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1rem;
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+h5{
+    color: white;
+    font-style: italic;
+}
+p {
+    font-size: 1rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* top-banner */
+.top-banner {
+    height: 120px;
+    padding: 9px 30px;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.top-banner p img {
+    height: 20px;
+}
+
+/* introduction */
+.introduction {
+    height: 370px;
+    padding: 90px 200px;
+    flex-direction: column;
+    text-align: left;
+    background-image: url(./images/Compass/Compass_prof_school_left_banner.jpg);
+    color: yellow;
+    overflow: hidden;
+}
+
+/* Insights Card */
+.insightscard {
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 20px 40px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.insightscard img {
+    padding: 5px;
+    height: 390px;
+    width: 800px;
+}
+
+/* Compass */
+.compass {
+    margin: 0;
+    padding: 30px 120px;
+    height: 480px;
+    text-align: center;
+    background-image: url(./images/Compass/compass-bg.jpg);
+    overflow: hidden;
+}
+
+.compass img {
+    padding: 15px;
+    height: 350px;
+}
+
+/* Career Fitment report */
+.fitment {
+    padding: 20px 150px;
+    height: 600px;
+    background-color: skyblue;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.fitment-cardone {
+    background-color: blueviolet;
+    color: white;
+}
+
+.fitment-cardtwo {
+    background-color: orange;
+    color: white;
+}
+
+.card-body-textOne {
+    text-align: left;
+}
+
+.card-body-textTwo {
+    text-align: left;
+}
+.card-body{
+    overflow: hidden;
+}
+
+/* footer */
+.footer {
+    height: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
