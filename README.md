@@ -1,6 +1,6 @@
 # TCS iON RIO-45 Internship
 
-TCS iON RIO-45: Learning Platform Configuration of Product Web Page.
+Build a project named Learning Platform Configuration of Product Web Page using HTML, CSS, Bootstrap.
 
 ### Project Objective
 
