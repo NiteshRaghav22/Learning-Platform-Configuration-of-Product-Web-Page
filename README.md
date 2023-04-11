@@ -35,7 +35,7 @@ Many schools in india are still capturing sttendance records of students manuall
 
 ### Important Links
 
-- Run the app directly in your Browser: [Browser Link](https://www.appsheet.com/start/fba0d88e-f49e-4d6b-b8f1-b5d149cf607d)
+- Run this website directly in your Browser: [Browser Link](https://niteshraghav22.github.io/TCS-iON-Rio-45-internship/)
 - View the Internship Certificate: [Certificate Link](https://drive.google.com/file/d/104cPFdHc5mSfArg6lQ7y2JyuSb4pnGfJ/view)
 - View the Internship Report: [Report Link](https://drive.google.com/file/d/1058aU-5JUZ4dxRP5kB2Q7HrJd-unINTZ/view)
 
