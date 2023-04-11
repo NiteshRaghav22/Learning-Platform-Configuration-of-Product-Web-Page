@@ -10,8 +10,6 @@ The objective of this project is to develop a web page for learning platform.
 
 ### Project Guidelines
 
-```
-Many schools in india are still capturing sttendance records of students manually.
 
 - Created a product webpage based on paid offerings of career fitment reports and its counsellings with providing insight cards
 for exploring paid offerings
@@ -25,8 +23,8 @@ for exploring paid offerings
 ### Project Outcome
 
 ```
-1. Student's details that school would like to record as attendance
-2. Mobile application for attendance management
+- Online learning for students.
+
 ```
 
 
