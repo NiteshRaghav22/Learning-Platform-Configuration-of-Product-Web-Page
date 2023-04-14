@@ -11,14 +11,10 @@ The objective of this project is to develop a web page for learning platform.
 ### Project Guidelines
 
 ```
-Many schools in india are still capturing sttendance records of students manually.
-
-- Identify the atendance details that school would like to capture for each student in the class
-- The details could be roll number, name, grade wise, subject wise details for a month
-- You can use Appsheet tool, which is a part of Google Cloud for creating your apps without coding.
-- The sample apps available on Appsheet cloud platform are fully customizable
-- Connect your data to Appsheet to create a mobile app
-- Refine your app to present your required data with different statistics
+- First create a HTML pagepage of website. 
+- Second construct a HTML page in to different sections.
+- Make sections like Banner, Inroduction, Insight card, Career fitment report, Paid offering by compass school.
+- Link CSS file with HTML page. 
 ```
 
 ### Project Outcome
