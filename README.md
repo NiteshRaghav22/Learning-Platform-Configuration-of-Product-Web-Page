@@ -1,6 +1,9 @@
-# TCS iON RIO-45 Internship
+<div align="center">
 
+# TCS iON RIO-45 Internship
 Build a project named Learning Platform Configuration of Product Web Page using HTML, CSS, Bootstrap.
+
+</div>
 
 ### Project Objective
 
